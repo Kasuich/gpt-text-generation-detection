@@ -17,19 +17,17 @@
 * Private - 0.9899
 
 ### Model
-
+* ruRoberta-large от sberbank-ai
 
 ### Tokenizer
-* 
+* AutoTokenizer
 
 ### Loss
-* 
+* BCE-Loss
 
 ### Optimizer
-* 
+* Lion
 
 ### Scheduler
-* 
+* cosine scheduler
 
-### Tricks
-* 
