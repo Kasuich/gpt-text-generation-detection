@@ -20,7 +20,7 @@
 * ruRoberta-large от sberbank-ai
 
 ### Tokenizer
-* AutoTokenizer
+* BPE Tokenizer
 
 ### Loss
 * BCE-Loss
